@@ -1,0 +1,38 @@
+body {
+    color: white;
+    background-color: #EFEDF4;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+
+a {
+    color: #40246D;
+    text-decoration: none;
+}
+
+.about{
+    text-align: center;
+    color: #40246D;
+}
+
+.learnmore {
+    text-align: center;
+    margin-top: 20px;
+}
+.learnmore a {
+    text-decoration: none;
+    color: #40246D;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration-color: #40246D;
+}
+.learnmore a:hover {
+    background-color: #e6e6e6;
+}
